@@ -21,9 +21,7 @@ author: Carol Hardy Website
 
 navbar-links:
   About Me: "aboutme"
-  Resume: 
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Resume: "CV"
 
 ################
 # --- Logo --- #
