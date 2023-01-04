@@ -1,10 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: What makes me tick
 ---
-
-## About Me
 
 My name is Carol Hardy, and I am currently working for Montana State
 University as a statistical consultant.
